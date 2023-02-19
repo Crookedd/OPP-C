@@ -21,6 +21,7 @@ namespace OPP
                     str += KeyWords[index];
                 }
             }
+            
             Console.WriteLine($"Название: {Name}\nАвтор: {Authors}\nКлючевые слова: {str}\nТема: {Theme}\nПуть к файлу: {PathToFaile}");
             Console.ReadKey();
         }
