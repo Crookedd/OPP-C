@@ -12,6 +12,5 @@ namespace OPP
             Console.WriteLine($"Особое свойство TXT: {SpecialPropertyTXT}\nКакое-то Свойство: {SomeKindOfProperty}");
             Console.ReadKey();
         }
-
     }
 }
