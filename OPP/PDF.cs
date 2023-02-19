@@ -12,6 +12,5 @@ namespace OPP
             Console.WriteLine($"Параметр защиты: {ProtectionParameter}\nЗаголовок: {Heading}");
             Console.ReadKey();
         }
-
     }
 }
