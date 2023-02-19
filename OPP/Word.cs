@@ -13,6 +13,5 @@ namespace OPP
             Console.WriteLine($"Шрифт Текста: {TextFont}\nРазмер Текста: {TextSize}\nРазмер Заголовка: {HeaderSize}");
             Console.ReadKey(); 
         }
-
     }
 }
