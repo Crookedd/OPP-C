@@ -70,6 +70,7 @@ namespace OPP
                 default:
                     Console.WriteLine("Такого документа нет!");
                     break;
+                    
             }
         }
     }
