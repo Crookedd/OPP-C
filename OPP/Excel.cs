@@ -8,7 +8,6 @@ namespace OPP
         public int NumberOfRows { get; set; }
         public string ColumnColor { get; set; } 
 
-
         public override void PrintValues()
         {
             Console.WriteLine($"Количество Столбцов: {NumberOfColumns}\nКоличество Строк: {NumberOfRows}\nЦвет Столбцов: {ColumnColor}");
