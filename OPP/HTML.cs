@@ -12,6 +12,5 @@ namespace OPP
             Console.WriteLine($"Дата создания файла: {FileCreationDate}\nРазмер файла: {FileSize}");
             Console.ReadKey();
         }
-
     }
 }
